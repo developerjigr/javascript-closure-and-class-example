@@ -1,6 +1,7 @@
 # javascript-closure-and-class-example
 Example of using closures and classes together
 
+```javascript
 function createCar() {
   let carID = 0;
   
@@ -34,3 +35,5 @@ const porsche = new carMaker("Porsche", "911 GT4", 500)
 honda.getCarInformation(4);
 golf.getCarInformation(4);
 porsche.getCarInformation(4);
+
+```
