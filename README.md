@@ -32,8 +32,8 @@ const golf = new carMaker("VW", "Golf GTI", 125)
 const porsche = new carMaker("Porsche", "911 GT4", 500)
 
 
-honda.getCarInformation(4);
-golf.getCarInformation(4);
-porsche.getCarInformation(4);
+honda.getCarInformation(4); //CAR ID : 1
+golf.getCarInformation(4); //CAR ID : 2
+porsche.getCarInformation(4); //CAR ID : 3
 
 ```
